@@ -1,4 +1,4 @@
-#Rock-Paper-Scissors Game
+Rock-Paper-Scissors Game
 Description:
 A Python-based graphical application that lets users play the classic rock-paper-scissors game against the computer. The project demonstrates basic GUI development using Tkinter, randomization, and event handling.
 
